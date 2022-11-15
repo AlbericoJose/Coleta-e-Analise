@@ -1,1 +1,2 @@
-# coleta, tratamento e analise de dados
+# Aqui demonstro algumas habilidades na coleta, tratamento e análise de dados utilizando bibliotecas como; Pandas, Numpy, Matplotlib, Requests, json e 
+beautifulsoup4
